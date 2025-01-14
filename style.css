@@ -1,0 +1,30 @@
+#ImagenFondo {
+    /* width: 1310px;
+    height: 981.309px; */
+}
+
+#PaginaAzul {
+    background-color: #3A5074;
+}
+
+#PaginaBlanca {
+    background-color: white;
+}
+
+#FondoInicio {
+    background-image: url('./images/person-working-html-computer.jpg');
+    /* height: 100vh; */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    background-size: cover;
+}
+
+#ImagenFondo {
+    z-index: -1;
+}
+
+#Title {
+    color: white;
+}
